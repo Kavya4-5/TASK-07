@@ -1,1 +1,2 @@
-# TASK-07
+TASK-07
+The task focuses on implementing Support Vector Machines (SVM) for binary classification using a dataset like the Breast Cancer Dataset. The main goal is to understand both linear and non-linear classification  through the use of SVM with linear and RBF (Radial Basis Function) kernels. You are required to preprocess the data, apply feature scaling, train two SVM models (one with linear kernel and one with RBF), and evaluate their performance using metrics like accuracy, precision, recall, and confusion matrix. 
